@@ -1,8 +1,8 @@
 source 'https://rubygems.org'
 
 gem 'rails', git: 'https://github.com/rails/rails'
-gem 'jbuilder'
-gem 'coffee-rails'
+gem 'jbuilder', git: 'https://github.com/rails/jbuilder'
+gem 'coffee-rails', git: 'https://github.com/rails/coffee-rails'
 
 gem 'sass-rails'
 gem 'turbolinks'
