@@ -1,7 +1,7 @@
 source 'https://rubygems.org'
 
 gem 'rails', git: 'https://github.com/rails/rails'
-gem 'jbuilder', git: 'https://github.com/rails/jbuilder'
+gem 'jbuilder'
 
 gem 'sass-rails'
 gem 'turbolinks'
