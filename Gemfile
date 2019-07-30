@@ -3,7 +3,7 @@ source 'https://rubygems.org'
 gem 'rails', git: 'https://github.com/rails/rails'
 gem 'jbuilder'
 
-gem 'sass-rails'
+gem 'sassc-rails'
 gem 'turbolinks'
 gem 'pg'
 gem 'uglifier'
