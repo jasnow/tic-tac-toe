@@ -21,6 +21,7 @@ end
 group :development, :test do
   gem 'byebug', platform: :mri
   gem 'overcommit'
+  gem 'brakeman'
 end
 
 group :production do
