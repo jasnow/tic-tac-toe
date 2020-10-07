@@ -5,7 +5,8 @@ gem 'jbuilder'
 
 gem 'sassc-rails'
 gem 'turbolinks'
-gem 'pg'
+#HID: gem 'pg' # HID on 10/7/2020
+gem 'sqlite3'
 gem 'uglifier'
 gem 'jquery-rails'
 gem 'redis'
