@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/rails/rails
-  revision: 2860be35cc484329a3a052ee0f4f5a96abea32f8
+  revision: 86a9c893eddb4bead094a759e9d1509a5b744c50
   specs:
     actioncable (6.1.0.rc1)
       actionpack (= 6.1.0.rc1)
@@ -145,7 +145,7 @@ GEM
     rb-fsevent (0.10.4)
     rb-inotify (0.10.1)
       ffi (~> 1.0)
-    redis (4.2.2)
+    redis (4.2.3)
     sassc (2.4.0)
       ffi (~> 1.9)
     sassc-rails (2.1.2)
